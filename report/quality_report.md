@@ -23,7 +23,7 @@
 | year | int64 | Год присуждения премии | Корректные значения 1901-2016 |
 | category | category | Категория премии | Physics, Chemistry, Medicine, Literature, Peace, Economics |
 | prize | object | Название премии | Полное название премии |
-| prize_share | object | Доля премии | Требуется проверка формата |
+| prize_share | object | Доля премии | Корректно |
 | laureate_id | int64 | Уникальный ID лауреата | Корректно |
 | laureate_type | category | Тип лауреата | Individual / Organization |
 | full_name | object | Полное имя лауреата | Корректно |
